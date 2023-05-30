@@ -1,2 +1,2 @@
-# my_resume
+# my-resume
 Latex template -- IIT Bombay
